@@ -63,16 +63,10 @@ How to Use the Dashboard
 4. Explore the charts to compare demographics, segment sizes, and income/spending patterns.
 5. Use the summary table to compare the average characteristics of each cluster.
 Suggested Repository Structure
-
-Customer-Segmentation-Analysis/
-├── README.md
-
-├── Customer_Segmentation.pbix
-├── dataset/
-│   └── Mall_Customers.csv
-
-└── images/
-    └── customer-segmentation-dashboard.png
+Customer-Segmentation-Analysis Assignment
+Customer_Segmentation.pbix
+dataset: - Mall_Customers.csv
+images:- customer-segmentation-dashboard.png    
 Rename files and folders to match the files you actually upload. Include the dataset only if you are permitted to share it, and add your final dashboard screenshot to the images/ folder if desired.
 Project Outcome
 The final Power BI dashboard brings customer metrics, filters, charts, and cluster summaries into one view. It demonstrates how customer data can be organised into segments and translated into practical marketing recommendations.
